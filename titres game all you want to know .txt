@@ -1,0 +1,11 @@
+Project Name: Tetris 
+
+Project Description: A Tetris game that integrates AI algorithms (A* and Greedy) to automatically 
+play the game. The AI makes decisions based on heuristic evaluation to optimize the piece placement,
+ using either the Greedy algorithm for immediate gains or A* for longer-term planning.
+
+AI Algorithm: A* (A-star) and Greedy Algorithms     
+   
+Project Type: Desktop
+
+Used Technologies: Python,  Pygame,  Greedy Algorithm,  ,A* Search Algorithm,  Object-Oriented Logic
